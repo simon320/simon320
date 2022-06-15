@@ -1,9 +1,12 @@
 <h1 align="center">Hola 👋, Soy Simon Juarez</h1>
-<h3 align="center">Me apasiona crear a traves de codigo</h3>
+<h3 align="center">FRONTEND DEVELOPER</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+<h4>Me apasiona crear a traves de codigo.<br>Actualmente estoy desarrollando mis proyectos usando React para el Front y firebase para el Backend, mientras me desarrollo como FullStack.</h4>
+
+<h3 align="left">Queres contactarme:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/simon-juarez-17ba32b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/simon-juarez-17ba32b6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simon-juarez-17ba32b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/simon-juarez-17ba32b6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herraminetas</h3>
