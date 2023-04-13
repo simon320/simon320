@@ -2,7 +2,7 @@
 <h3 align="center">FRONTEND DEVELOPER</h3>
 
 
-<h4>Me apasiona crear a traves de codigo.<br>Actualmente estoy desarrollando mis proyectos usando React para el Front y firebase para el Backend, mientras me desarrollo como FullStack.</h4>
+<h4>Me apasiona crear a traves de codigo.<br>Actualmente estoy desarrollando mis proyectos usando Angular para el Front y NestJS para el Backend.</h4>
 
 <h3 align="left">Queres contactarme:</h3>
 <p align="left">
@@ -26,6 +26,21 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="primeNG" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://camo.githubusercontent.com/6f965c76e05959a8e126ef6774ac91c8781b80b5f18a6d610871112f85f1d8db/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e67756c61722d6d6174657269616c2d657874656e73696f6e732f6c696e6b2d707265766965772f6173736574732f616e67756c61722d6d6174657269616c2d657874656e73696f6e732d6c6f676f2e706e67" alt="angular material" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="NestJS" width="40" height="40"/> 
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
