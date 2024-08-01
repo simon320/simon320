@@ -36,7 +36,7 @@
     <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="primeNG" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/6f965c76e05959a8e126ef6774ac91c8781b80b5f18a6d610871112f85f1d8db/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e67756c61722d6d6174657269616c2d657874656e73696f6e732f6c696e6b2d707265766965772f6173736574732f616e67756c61722d6d6174657269616c2d657874656e73696f6e732d6c6f676f2e706e67" alt="angular material" width="40" height="40"/> 
+    <img src="https://www.pikpng.com/pngl/m/536-5366046_angular-material-design-emblem-clipart.png" alt="angular material" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="NestJS" width="40" height="40"/> 
